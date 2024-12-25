@@ -1,4 +1,3 @@
--
   name: Executing date command
   hosts: web_servers
   tasks:
@@ -21,3 +20,4 @@
       service: 
         name: httpd
         state: started
+
