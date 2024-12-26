@@ -1,0 +1,21 @@
+Line 1: # Simple Python Program
+Line 2: print("Hello, World!")
+Line 3: 
+Line 4: # Variables and Data Types
+Line 5: x = 10
+Line 6: y = 20
+Line 7: 
+Line 8: # Add two numbers
+Line 9: sum = x + y
+Line 10: print("Sum:", sum)
+Line 11: 
+Line 12: # Loop Example
+Line 13: for i in range(1, 6):
+Line 14:     print("Loop iteration", i)
+Line 15: 
+Line 16: # If Statement Example
+Line 17: if x > y:
+Line 18:     print("x is greater than y")
+Line 19: else:
+Line 20:     print("y is greater than or equal to x")
+
