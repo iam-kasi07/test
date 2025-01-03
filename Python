@@ -2,12 +2,12 @@ import random
 
 games_played = 0
 
-def number_guessing_game():
-    global games_played
-    games_played += 1
-    print(f"Game {games_played} - Welcome to the Number Guessing Game!")
-    number_to_guess = random.randint(1, 100)
-    attempts = 0
+# def number_guessing_game():
+#     global games_played
+#     games_played += 1
+#     print(f"Game {games_played} - Welcome to the Number Guessing Game!")
+#     number_to_guess = random.randint(1, 100)
+#     attempts = 0
 
     while True:
         try:
